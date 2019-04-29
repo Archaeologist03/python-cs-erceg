@@ -7,8 +7,6 @@
 
 - Regular labs: labs folder --> choose lab
 
-<br>
 
 - Midterm labs: midterm-labs folder --> choose lab
 
-<br>
